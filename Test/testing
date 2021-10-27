@@ -1,2 +1,4 @@
 This file name is testing...so not in the .gitignore file....so it is tracked.
 Our target is to see this file when we issue git diff command.
+
+Lets clear the confusion.

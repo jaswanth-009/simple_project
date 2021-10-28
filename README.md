@@ -5,4 +5,4 @@ This is the second change.
 
 This is the third change.
 
-one line for cecking merge conflicts.
+one line for checking merge conflicts.
